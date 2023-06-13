@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sprint-boot-app
-        image: kirankumar1989/capstone-cicd:2
+        image: kirankumar1989/capstone-cicd:5
         ports:
         - containerPort: 8080
